@@ -9,7 +9,7 @@ Click the thumbnail below to see a full video demonstration
 <table>
   <tr>
     <td align="center"><strong>Login Page</strong></td>
-    <td align="center"><strong>Register Page</strong></td>
+<!--     <td align="center"><strong>Register Page</strong></td> -->
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ba30b20a-cc58-4e5f-b5c1-eb6680568158" alt="Login Page" width="350"/></td>
