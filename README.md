@@ -19,7 +19,7 @@ Click the thumbnail below to see a full video demonstration
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/Yashwanss/LoginPage_/issues).
 
 ## 📄 License
 
