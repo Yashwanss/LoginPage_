@@ -13,7 +13,7 @@ Click the thumbnail below to see a full video demonstration
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ba30b20a-cc58-4e5f-b5c1-eb6680568158" alt="Login Page" width="350"/></td>
-    <td><img src="https://github.com/user-attachments/assets/694511f3-8e76-45b4-b91d-dd6e2087a09c" alt="Register Page" width="350"/></td>
+<!--     <td><img src="https://github.com/user-attachments/assets/694511f3-8e76-45b4-b91d-dd6e2087a09c" alt="Register Page" width="350"/></td> -->
   </tr>
 </table>
 
